@@ -1,2 +1,13 @@
 # AOC_2023
-AOC 2023 solutions
+
+these are my attempts at solutions to AOC 2023
+
+https://adventofcode.com/2023
+
+hoping to improve on my results from last year. (https://github.com/wtvar/AOC_2022)
+
+day 1: https://github.com/wtvar/AOC_2023/tree/main/day_1 result: **
+
+day 2: https://github.com/wtvar/AOC_2023/tree/main/day_2 result: **
+
+day 3: 
