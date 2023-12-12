@@ -14,4 +14,12 @@ day 3: https://github.com/wtvar/AOC_2023/tree/main/day_3 result: __
 
 day 4: https://github.com/wtvar/AOC_2023/tree/main/day_4 result: **
 
-day 5: 
+day 5: nope
+
+day 6: 
+
+day 7: 
+
+day 8: 
+
+day 9: 
