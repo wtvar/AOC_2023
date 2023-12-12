@@ -16,7 +16,7 @@ day 4: https://github.com/wtvar/AOC_2023/tree/main/day_4 result: **
 
 day 5: nope
 
-day 6: https://github.com/wtvar/AOC_2023/tree/main/day_6 result: *_
+day 6: https://github.com/wtvar/AOC_2023/tree/main/day_6 result: **
 
 day 7: 
 
